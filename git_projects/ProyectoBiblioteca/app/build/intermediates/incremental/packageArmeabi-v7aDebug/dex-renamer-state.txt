@@ -1,7 +1,0 @@
-#Fri May 05 20:10:16 COT 2017
-base.0=/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d5ee2411a22508f804596ccccbfe2e2237dc76e
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4e46cf14b3d28c094f0788dbc5b3f8f3f2f9527e/classes.dex
-base.1=/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4e46cf14b3d28c094f0788dbc5b3f8f3f2f9527e
-file.0=/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d5ee2411a22508f804596ccccbfe2e2237dc76e/classes.dex
