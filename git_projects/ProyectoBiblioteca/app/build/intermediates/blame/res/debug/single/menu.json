@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/res/merged/debug/menu/menu_wv.xml",
+        "source": "/home/sebastian/git_projects/ProyectoBiblioteca/app/src/main/res/menu/menu_wv.xml"
+    },
+    {
+        "merged": "/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/res/merged/debug/menu/menu_nav.xml",
+        "source": "/home/sebastian/git_projects/ProyectoBiblioteca/app/src/main/res/menu/menu_nav.xml"
+    }
+]

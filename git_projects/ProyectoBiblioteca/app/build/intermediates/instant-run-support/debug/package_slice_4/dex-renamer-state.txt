@@ -1,0 +1,4 @@
+#Fri May 05 20:10:11 COT 2017
+base.0=/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

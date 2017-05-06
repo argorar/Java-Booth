@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/pageview.png",
+        "source": "/home/sebastian/git_projects/ProyectoBiblioteca/app/src/main/res/drawable-xxxhdpi/pageview.png"
+    },
+    {
+        "merged": "/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/acerca_de.png",
+        "source": "/home/sebastian/git_projects/ProyectoBiblioteca/app/src/main/res/drawable-xxxhdpi/acerca_de.png"
+    },
+    {
+        "merged": "/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/paseo_virtual.png",
+        "source": "/home/sebastian/git_projects/ProyectoBiblioteca/app/src/main/res/drawable-xxxhdpi/paseo_virtual.png"
+    },
+    {
+        "merged": "/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ubicacion.png",
+        "source": "/home/sebastian/git_projects/ProyectoBiblioteca/app/src/main/res/drawable-xxxhdpi/ubicacion.png"
+    },
+    {
+        "merged": "/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/actualizar.png",
+        "source": "/home/sebastian/git_projects/ProyectoBiblioteca/app/src/main/res/drawable-xxxhdpi/actualizar.png"
+    },
+    {
+        "merged": "/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/close.png",
+        "source": "/home/sebastian/git_projects/ProyectoBiblioteca/app/src/main/res/drawable-xxxhdpi/close.png"
+    },
+    {
+        "merged": "/home/sebastian/git_projects/ProyectoBiblioteca/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/crai.png",
+        "source": "/home/sebastian/git_projects/ProyectoBiblioteca/app/src/main/res/drawable-xxxhdpi/crai.png"
+    }
+]
